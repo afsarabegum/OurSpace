@@ -1,0 +1,45 @@
+body{
+    font-family: monospace;
+    height: 100vh;
+    
+    
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 600;
+    font-family: 'Lekton', -apple-system-font, 'Helvetica Neue', Helvetica, Arial, serif;
+}
+h2,h3,h4,h5,h6{
+    font-size: 30px;
+    font-family: monospace, monospace;
+    font-weight: 100;
+}
+    
+}
+
+.classroom 
+{
+    poition:relative;
+    
+}
+
+#intro{
+    background-color: aqua;
+    width:100%;
+    
+}
+
+#myCarousel{
+    width: 100%;
+    margin: 0;
+        
+}
+
+li{
+    list-style-type: none;
+}
